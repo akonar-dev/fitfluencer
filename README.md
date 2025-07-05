@@ -1,2 +1,4 @@
-# fitfluencer
-An application to help people follow fitness in their everyday life
+# Fitfluencer
+
+1. Setup Vite
+2. Setup Tailwind CSS
