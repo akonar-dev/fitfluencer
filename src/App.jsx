@@ -13,7 +13,7 @@ function App() {
               <li className="p-5 m-5 text-6xl">Contact Us</li>
             </ul>
         </div>
-        <div className="font-poppins text-9xl text-center text-white tracking-wider relative top-50 font-extrabold uppercase drop-shadow-lg
+        <div className="font-poppins text-5xl text-center text-white tracking-wider relative top-50 font-extrabold uppercase drop-shadow-lg
         ">
           <Typewriter
           options={{
